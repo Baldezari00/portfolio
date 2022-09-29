@@ -1,0 +1,251 @@
+*{
+    box-sizing: border-box;
+}
+
+
+#avatar{
+
+   border-radius: 10%;
+   border: 2px solid black;
+   
+   height: auto;
+   width: 100%;
+   
+   
+
+
+}
+#I{
+    border-radius: 10%;
+    background-color: rgba(243, 33, 51, 0.829);
+    background-size: 100%;
+    
+ width: 400px;
+    text-align: center;
+    margin:0px auto;
+    padding: 40px;
+    border: 1.5px solid rgb(70, 95, 206);
+    margin-bottom: 80px;
+    color: black;
+    
+    
+   
+
+
+
+
+}
+#i h1{
+    width: 100%;
+}
+
+.container-fluid a:hover{
+    background-color: rgba(2, 61, 253, 0.76);
+    transition-duration: 0.8s;
+   
+}
+
+.container-fluid{
+    background-color: rgba(19, 239, 255, 0.897);
+}
+
+#p:hover{
+    background-color: rgb(197, 233, 197);
+}
+.port{
+    padding: 30px;
+    text-align: center;
+    background-color: rgba(15, 146, 3, 0.733);
+    border: 4px solid black;
+   
+    height: auto;
+    background-size: 100%;
+    
+    margin:5px;
+    margin-bottom: 60px;
+
+   }
+.port img{
+    border-radius: 20%;
+    height: auto;
+    width: 100%;
+    padding: 30px;
+    
+
+    
+
+}
+#hr{
+    color: black;
+}
+#A{
+    margin: 10px;
+    text-align: center;
+    padding: 20px;
+   border: 2px solid red;
+   margin-bottom: 40px;
+}
+
+
+
+.conteiner{
+    background-color: rgba(33, 33, 34, 0.808);
+   
+    text-align: center;
+    padding: 70px;
+    margin: 0px auto ;
+    border-radius: 10px;
+    
+}
+
+#desarrollador{
+    font-style: italic;
+    width: 100%;
+   
+}
+
+.label{
+    border-radius: 10%;
+}
+
+
+
+#C{
+    background: rgba(57, 241, 32, 0.623);
+    text-align: center;
+    width: 450px;
+    margin: 0px auto;
+    padding: 30px 40px;
+    border-radius: 9%;
+    margin-bottom: 60px;
+
+    
+    
+}
+#titulocont{
+    text-align: center;
+    margin: 0px auto;
+    margin-bottom: 60px;
+    color: black;
+
+}
+
+#enviar{
+    font-size: 120%;
+    
+
+   
+}
+
+.input{
+    width: 100%;
+    margin-bottom: 35px;
+    padding: 7px;
+    border: none;
+}
+.input:hover{
+    border-color: rgb(236, 0, 71);
+    }
+
+#consultas{
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+
+}
+
+#boton{
+    background: #31384A;
+    color: #fff;
+    padding: 20px;
+}
+#enviar:hover{
+    font-size: 200% ;
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
+#copy{
+    color: rgba(250, 235, 215, 0.67);
+    font-size: 70%;
+    position: relative;
+    top: 80px;
+}
+
+.redes i{
+    margin: 0px auto;
+    cursor: pointer;
+    font-size: 20px;
+    color: rgb(227, 5, 17);
+    padding: 10px;
+}
+#mardel{
+    margin-bottom: 50px;
+    color: rgb(255, 0, 0);
+    
+}
+@media(max-width:450px){
+    #C{
+        width: 100%;
+    }
+    #conteiner{
+        width:100%;
+    }
+    #I{
+        width: 100%;
+    }
+}
+#CG{
+   
+    color: rgb(255, 0, 255);
+    font-size: 120%;
+}
+#TDL{
+    
+    color: rgb(34, 34, 241);
+    font-size: 120%;
+}
+#WC{
+    
+    color: rgb(1, 3, 136);
+    font-size: 120%;
+}
+body{
+    background-image: url("./fondo.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: auto;
+}
+#direccion{
+    color: rgba(255, 255, 255, 0.815);
+
+}
+
+#redes{
+    color: rgba(255, 255, 255, 0.842);
+}
+#barraDeNavegacion{
+    padding-top: 0%;
+    padding-bottom: 0%;
+    border: 2px solid rgb(26, 26, 245);
+   margin: 10px;
+   margin-bottom: 35px;
+   font-size: 130%;
+  
+}
+.nav-link{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+    color: black;
+}
+
+.AM{
+    color: #fff;
+
+}
+#AM{
+    color: rgba(255, 255, 255, 0.914);
+}
+#am1{
+    color: rgba(255, 255, 255, 0.911);
+}
